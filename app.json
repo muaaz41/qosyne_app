@@ -2,6 +2,7 @@
   "expo": {
     "name": "qosyne",
     "slug": "qosyne",
+    "entryPoint": "./App.tsx",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
